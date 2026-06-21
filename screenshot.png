@@ -1,0 +1,113 @@
+<h1 align="center">💬 GUI Client-Server Chat Application</h1>
+
+<p align="center">
+  A Real-Time Chat Application built using Python, Socket Programming, Tkinter, and Multi-threading.
+</p>
+
+---
+
+## 🚀 About The Project
+
+This project is a GUI-based Client-Server Chat Application that enables real-time communication between a client and a server over a network.
+
+The application uses Python sockets for communication and Tkinter for creating an interactive graphical user interface.
+
+---
+
+## ✨ Features
+
+✅ Real-Time Messaging
+
+✅ Client-Server Architecture
+
+✅ Tkinter GUI Interface
+
+✅ Multi-Threaded Communication
+
+✅ Easy-to-Use Chat Window
+
+✅ Fast and Lightweight
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|----------|
+| Python | Programming Language |
+| Socket | Network Communication |
+| Tkinter | GUI Development |
+| Threading | Multiple Tasks Execution |
+
+---
+
+## 📂 Project Structure
+
+```bash
+GUI-Chat-App/
+│
+├── server_gui.py
+├── client_gui.py
+├── README.md
+└── screenshot.png
+```
+
+---
+
+## ▶️ How To Run
+
+### Start Server
+
+```bash
+python server_gui.py
+```
+
+### Start Client
+
+```bash
+python client_gui.py
+```
+
+---
+
+## 📸 Project Screenshot
+
+![Chat Application](screenshot.png)
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understanding TCP/IP Communication
+- Socket Programming Fundamentals
+- Building GUI Applications with Tkinter
+- Multi-threading Concepts
+- Client-Server Networking
+
+---
+
+## 🌟 Future Improvements
+
+- Multiple Client Support
+- User Authentication
+- File Sharing Feature
+- Chat History Storage
+- End-to-End Encryption
+
+---
+
+## 👩‍💻 Author
+
+**Pranjali**
+
+🎓 BCA Student  
+🐍 Python Developer  
+🌐 Networking Enthusiast  
+
+---
+
+### ⭐ If you like this project, don't forget to star the repository!
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![Socket](https://img.shields.io/badge/Networking-Socket-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
